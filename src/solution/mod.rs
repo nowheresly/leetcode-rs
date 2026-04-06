@@ -60,6 +60,7 @@ mod s0812_largest_triangle_area;
 mod s0836_is_rectangle_overlap;
 mod s0837_new21_game;
 mod s0840_num_magic_squares_inside;
+mod s0874_robot_sim;
 mod s0898_subarray_bitwise_o_rs;
 mod s0904_total_fruit;
 mod s0907_sum_subarray_mins;
