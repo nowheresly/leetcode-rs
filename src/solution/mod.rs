@@ -278,6 +278,7 @@ mod s3643_reverse_submatrix;
 mod s3650_min_cost;
 mod s3651_min_cost;
 mod s3652_max_profit;
+mod s3653_xor_after_queries;
 mod s3674_min_operations;
 mod s3712_sum_divisible_by_k;
 mod s3713_longest_balanced;
