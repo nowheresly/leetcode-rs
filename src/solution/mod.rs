@@ -284,4 +284,5 @@ mod s3712_sum_divisible_by_k;
 mod s3713_longest_balanced;
 mod s3714_longest_balanced;
 mod s3719_longest_balanced;
+mod s3740_minimum_distance;
 mod s3754_sum_and_multiply;
