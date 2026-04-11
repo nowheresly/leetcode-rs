@@ -48,6 +48,7 @@ mod s0696_count_binary_substrings;
 mod s0712_minimum_delete_sum;
 mod s0717_is_one_bit_character;
 mod s0744_next_greatest_letter;
+mod s0755_pour_water;
 mod s0756_pyramid_transition;
 mod s0757_intersection_size_two;
 mod s0759_employee_free_time;
