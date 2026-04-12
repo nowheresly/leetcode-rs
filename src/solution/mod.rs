@@ -96,6 +96,7 @@ mod s1290_get_decimal_value;
 mod s1292_max_side_length;
 mod s1304_sum_zero;
 mod s1317_get_no_zero_integers;
+mod s1320_minimum_distance;
 mod s1323_max69_number;
 mod s1329_diagonal_sort;
 mod s1339_max_product;
