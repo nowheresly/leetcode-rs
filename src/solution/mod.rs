@@ -184,6 +184,7 @@ mod s2411_smallest_subarrays;
 mod s2419_longest_subarray;
 mod s2435_number_of_paths;
 mod s2438_product_queries;
+mod s2463_minimum_total_distance;
 mod s2483_best_closing_time;
 mod s2528_max_power;
 mod s2536_range_add_queries;
