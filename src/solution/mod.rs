@@ -259,6 +259,7 @@ mod s3461_has_same_digits;
 mod s3477_num_of_unplaced_fruits;
 mod s3484_design_spreadsheet;
 mod s3487_max_sum;
+mod s3488_solve_queries;
 mod s3494_min_time;
 mod s3495_min_operations;
 mod s3005_max_frequency_elements;

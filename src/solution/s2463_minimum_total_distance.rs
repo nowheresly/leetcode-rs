@@ -14,7 +14,7 @@ impl Solution {
         // 2. Flatten factories based on their limits
         let mut factory_list = vec![];
         for f in factory {
-            for i in 0..f[1] {
+            for _i in 0..f[1] {
                 factory_list.push(f[0]);
             }
         }
