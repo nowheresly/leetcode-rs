@@ -136,6 +136,7 @@ mod s1758_min_operations;
 mod s1784_check_ones_segment;
 mod s1792_max_average_ratio;
 mod s1848_get_min_distance;
+mod s1855_max_distance;
 mod s1865_find_sum_pairs;
 mod s1877_min_pair_sum;
 mod s1878_get_biggest_three;
