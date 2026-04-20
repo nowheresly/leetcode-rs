@@ -157,6 +157,7 @@ mod s2044_count_max_or_subsets;
 mod s2048_next_beautiful_number;
 mod s2069_robot;
 mod s2075_decode_ciphertext;
+mod s2078_max_distance;
 mod s2092_find_all_people;
 mod s2099_find_subseq_k_largest_sum;
 mod s2104_sub_array_ranges;
