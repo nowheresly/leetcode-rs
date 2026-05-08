@@ -292,6 +292,7 @@ mod s3577_count_permutations;
 mod s3606_validate_coupons;
 mod s3607_process_queries;
 mod s3625_count_trapezoids;
+mod s3629_min_jumps;
 mod s3634_min_removal;
 mod s3637_is_trionic;
 mod s3643_reverse_submatrix;
