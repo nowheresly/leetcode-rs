@@ -151,6 +151,7 @@ mod s1878_get_biggest_three;
 mod s1886_find_rotation;
 mod s1888_min_flips;
 mod s1895_largest_magic_square;
+mod s1914_rotate_grid;
 mod s1925_count_triples;
 mod s1930_count_palindromic_subsequence;
 mod s1957_make_fancy_string;
