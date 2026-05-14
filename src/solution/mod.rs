@@ -212,6 +212,7 @@ mod s2654_min_operations;
 mod s2749_make_the_integer_zero;
 mod s2770_maximum_jumps;
 mod s2778_sum_of_squares;
+mod s2784_is_good;
 mod s2785_sort_vowels;
 mod s2787_number_of_ways;
 mod s2824_count_pairs;
