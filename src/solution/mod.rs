@@ -165,6 +165,7 @@ mod s2011_final_value_after_operations;
 mod s2043_simple_bank_system;
 mod s2044_count_max_or_subsets;
 mod s2048_next_beautiful_number;
+mod s2061_number_of_clean_rooms;
 mod s2069_robot;
 mod s2075_decode_ciphertext;
 mod s2078_max_distance;
