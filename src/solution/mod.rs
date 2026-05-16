@@ -12,6 +12,7 @@ mod s0070_climb_stairs;
 mod s0085_maximal_rectangle;
 mod s0118_generate;
 mod s0120_triangle;
+mod s0154_find_min;
 mod s0165_compare_version;
 mod s0166_fraction_to_decimal;
 mod s0213_rob;
