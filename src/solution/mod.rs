@@ -99,6 +99,7 @@ mod s1182_shortest_distance_color;
 mod s1290_get_decimal_value;
 mod s1292_max_side_length;
 mod s1304_sum_zero;
+mod s1306_can_reach;
 mod s1317_get_no_zero_integers;
 mod s1320_minimum_distance;
 mod s1323_max69_number;
