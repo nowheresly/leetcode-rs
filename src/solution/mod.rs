@@ -106,6 +106,7 @@ mod s1323_max69_number;
 mod s1329_diagonal_sort;
 mod s1339_max_product;
 mod s1343_num_of_subarrays;
+mod s1345_min_jumps;
 mod s1351_count_negatives;
 mod s1358_max_events;
 mod s1360_days_between_dates;
