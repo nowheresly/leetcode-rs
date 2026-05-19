@@ -207,6 +207,7 @@ mod s2483_best_closing_time;
 mod s2515_closest_target;
 mod s2528_max_power;
 mod s2536_range_add_queries;
+mod s2540_get_common;
 mod s2553_separate_digits;
 mod s2566_min_max_diff;
 mod s2598_find_smallest_integer;
