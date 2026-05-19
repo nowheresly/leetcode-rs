@@ -23,7 +23,7 @@ impl Solution {
         let mut steps = 0;
         while q.is_empty() == false {
             let size = q.len();
-            for i in 0..size {
+            for _i in 0..size {
                 let curr = q.pop_front().unwrap();
                 if curr == n - 1 {
                     return steps;
