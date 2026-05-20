@@ -214,6 +214,7 @@ mod s2598_find_smallest_integer;
 mod s2615_distance;
 mod s2643_row_and_max_ones;
 mod s2654_min_operations;
+mod s2657_find_the_prefix_common_array;
 mod s2749_make_the_integer_zero;
 mod s2770_maximum_jumps;
 mod s2778_sum_of_squares;
