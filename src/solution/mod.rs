@@ -245,6 +245,7 @@ mod s3074_minimum_boxes;
 mod s3075_maximum_happiness_sum;
 mod s3100_max_bottles_drunk;
 mod s3120_number_of_special_chars;
+mod s3121_number_of_special_chars;
 mod s3129_number_of_stable_arrays;
 mod s3136_is_valid;
 mod s3147_maximum_energy;
