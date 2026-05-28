@@ -243,6 +243,7 @@ mod s3043_longest_common_prefix;
 mod s3070_count_submatrices;
 mod s3074_minimum_boxes;
 mod s3075_maximum_happiness_sum;
+mod s3093_string_indices;
 mod s3100_max_bottles_drunk;
 mod s3120_number_of_special_chars;
 mod s3121_number_of_special_chars;
