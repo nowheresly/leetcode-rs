@@ -250,6 +250,7 @@ mod s3121_number_of_special_chars;
 mod s3129_number_of_stable_arrays;
 mod s3136_is_valid;
 mod s3147_maximum_energy;
+mod s3161_get_results;
 mod s3178_number_of_child;
 mod s3186_maximum_total_damage;
 mod s3195_minimum_area;
