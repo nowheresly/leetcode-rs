@@ -148,6 +148,7 @@ mod s1722_minimum_hamming_distance;
 mod s1758_min_operations;
 mod s1784_check_ones_segment;
 mod s1792_max_average_ratio;
+mod s1837_sum_base;
 mod s1848_get_min_distance;
 mod s1855_max_distance;
 mod s1861_rotate_the_box;
