@@ -154,6 +154,7 @@ mod s1855_max_distance;
 mod s1861_rotate_the_box;
 mod s1865_find_sum_pairs;
 mod s1871_can_reach;
+mod s1876_count_good_substrings;
 mod s1877_min_pair_sum;
 mod s1878_get_biggest_three;
 mod s1886_find_rotation;
