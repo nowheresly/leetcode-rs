@@ -331,5 +331,6 @@ mod s3713_longest_balanced;
 mod s3714_longest_balanced;
 mod s3719_longest_balanced;
 mod s3740_minimum_distance;
+mod s3751_total_waviness;
 mod s3754_sum_and_multiply;
 mod s3761_min_mirror_pair_distance;
