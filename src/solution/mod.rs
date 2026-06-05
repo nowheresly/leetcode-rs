@@ -163,6 +163,7 @@ mod s1895_largest_magic_square;
 mod s1914_rotate_grid;
 mod s1925_count_triples;
 mod s1930_count_palindromic_subsequence;
+mod s1941_are_occurrences_equal;
 mod s1957_make_fancy_string;
 mod s1970_latest_day_to_cross;
 mod s1975_max_matrix_sum;
