@@ -172,6 +172,7 @@ mod s1980_find_different_binary_string;
 mod s1984_minimum_difference;
 mod s2000_reverse_prefix;
 mod s2011_final_value_after_operations;
+mod s2027_minimum_moves;
 mod s2043_simple_bank_system;
 mod s2044_count_max_or_subsets;
 mod s2048_next_beautiful_number;
