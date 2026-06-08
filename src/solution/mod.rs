@@ -183,6 +183,7 @@ mod s2078_max_distance;
 mod s2092_find_all_people;
 mod s2099_find_subseq_k_largest_sum;
 mod s2104_sub_array_ranges;
+mod s2107_share_candies;
 mod s2110_get_descent_periods;
 mod s2125_number_of_beams;
 mod s2126_asteroids_destroyed;
