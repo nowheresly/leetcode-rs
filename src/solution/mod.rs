@@ -204,6 +204,7 @@ mod s2273_remove_anagrams;
 mod s2299_strong_password_checker_ii;
 mod s2300_successful_pairs;
 mod s2327_people_aware_of_secret;
+mod s2335_fill_cups;
 mod s2348_zero_filled_subarray;
 mod s2353_food_ratings;
 mod s2402_most_booked;
