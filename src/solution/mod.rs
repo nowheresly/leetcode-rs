@@ -208,6 +208,7 @@ mod s2335_fill_cups;
 mod s2348_zero_filled_subarray;
 mod s2353_food_ratings;
 mod s2402_most_booked;
+mod s2404_most_frequent_even;
 mod s2410_match_players_and_trainers;
 mod s2411_smallest_subarrays;
 mod s2419_longest_subarray;
