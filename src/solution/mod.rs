@@ -226,6 +226,7 @@ mod s2553_separate_digits;
 mod s2566_min_max_diff;
 mod s2578_split_num;
 mod s2598_find_smallest_integer;
+mod s2600_k_items_with_maximum_sum;
 mod s2615_distance;
 mod s2643_row_and_max_ones;
 mod s2654_min_operations;
