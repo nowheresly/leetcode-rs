@@ -31,6 +31,7 @@ mod s0417_pacific_atlantic;
 mod s0422_valid_word_squares;
 mod s0425_word_squares;
 mod s0441_arrange_coins;
+mod s0463_island_perimeter;
 mod s0474_find_max_form;
 mod s0495_find_poisoned_duration;
 mod s0490_has_path;
