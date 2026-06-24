@@ -293,6 +293,7 @@ mod s3347_max_frequency;
 mod s3349_has_increasing_subarrays;
 mod s3350_max_increasing_subarrays;
 mod s3354_count_valid_selections;
+mod s3360_can_alice_win;
 mod s3364_minimum_sum_subarray;
 mod s3370_smallest_number;
 mod s3379_construct_transformed_array;
