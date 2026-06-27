@@ -253,6 +253,7 @@ mod s2976_minimum_cost;
 mod s3000_area_of_max_diagonal;
 mod s3003_max_partitions_after_operations;
 mod s3010_minimum_cost;
+mod s3020_maximum_length;
 mod s3021_flower_game;
 mod s3025_number_of_pairs;
 mod s3027_number_of_pairs;
