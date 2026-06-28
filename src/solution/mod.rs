@@ -154,6 +154,7 @@ mod s1792_max_average_ratio;
 mod s1833_max_ice_cream;
 mod s1837_sum_base;
 mod s1840_max_building;
+mod s1846_maximum_element_after_decrementing_and_rearranging;
 mod s1848_get_min_distance;
 mod s1855_max_distance;
 mod s1861_rotate_the_box;
