@@ -171,6 +171,7 @@ mod s1925_count_triples;
 mod s1930_count_palindromic_subsequence;
 mod s1941_are_occurrences_equal;
 mod s1957_make_fancy_string;
+mod s1967_num_of_strings;
 mod s1970_latest_day_to_cross;
 mod s1975_max_matrix_sum;
 mod s1980_find_different_binary_string;
