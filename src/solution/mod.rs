@@ -113,6 +113,7 @@ mod s1340_max_jumps;
 mod s1343_num_of_subarrays;
 mod s1345_min_jumps;
 mod s1351_count_negatives;
+mod s1358_number_of_substrings;
 mod s1358_max_events;
 mod s1360_days_between_dates;
 mod s1390_sum_four_divisors;
