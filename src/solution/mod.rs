@@ -286,6 +286,7 @@ mod s3222_winning_player;
 mod s3227_does_alice_win;
 mod s3228_max_operations;
 mod s3234_number_of_substrings;
+mod s3286_find_safe_walk;
 mod s3289_get_sneaky_numbers;
 mod s3296_min_number_of_seconds;
 mod s3300_min_element;
