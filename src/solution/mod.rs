@@ -224,6 +224,7 @@ mod s2438_product_queries;
 mod s2452_two_edit_words;
 mod s2463_minimum_total_distance;
 mod s2483_best_closing_time;
+mod s2492_min_score;
 mod s2515_closest_target;
 mod s2528_max_power;
 mod s2536_range_add_queries;
