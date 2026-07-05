@@ -102,6 +102,7 @@ mod s1277_count_square;
 mod s1182_shortest_distance_color;
 mod s1290_get_decimal_value;
 mod s1292_max_side_length;
+mod s1301_paths_with_max_score;
 mod s1304_sum_zero;
 mod s1306_can_reach;
 mod s1317_get_no_zero_integers;
