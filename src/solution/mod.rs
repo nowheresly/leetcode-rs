@@ -248,6 +248,7 @@ mod s2778_sum_of_squares;
 mod s2784_is_good;
 mod s2785_sort_vowels;
 mod s2787_number_of_ways;
+mod s2806_account_balance_after_purchase;
 mod s2824_count_pairs;
 mod s2833_furthest_distance_from_origin;
 mod s2839_can_be_equal;
