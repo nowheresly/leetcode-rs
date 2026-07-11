@@ -253,6 +253,7 @@ mod s2806_account_balance_after_purchase;
 mod s2824_count_pairs;
 mod s2833_furthest_distance_from_origin;
 mod s2839_can_be_equal;
+mod s2859_sum_indices_with_k_set_bits;
 mod s2872_max_k_divisible_components;
 mod s2906_construct_product_matrix;
 mod s2943_maximize_square_hole_area;
