@@ -101,6 +101,7 @@ mod s1266_min_time_to_visit_all_points;
 mod s1277_count_square;
 mod s1182_shortest_distance_color;
 mod s1290_get_decimal_value;
+mod s1291_sequential_digits;
 mod s1292_max_side_length;
 mod s1301_paths_with_max_score;
 mod s1304_sum_zero;
