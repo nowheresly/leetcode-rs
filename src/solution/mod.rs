@@ -258,6 +258,7 @@ mod s2859_sum_indices_with_k_set_bits;
 mod s2872_max_k_divisible_components;
 mod s2906_construct_product_matrix;
 mod s2917_find_k_or;
+mod s2932_maximum_strong_pair_xor;
 mod s2943_maximize_square_hole_area;
 mod s2946_are_similar;
 mod s2975_maximize_square_area;
