@@ -360,6 +360,7 @@ mod s3652_max_profit;
 mod s3653_xor_after_queries;
 mod s3658_gcd_of_odd_even_sums;
 mod s3660_max_value;
+mod s3867_gcd_sum;
 mod s3674_min_operations;
 mod s3689_max_total_value;
 mod s3699_zig_zag_arrays;
