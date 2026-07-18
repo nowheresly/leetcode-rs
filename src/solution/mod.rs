@@ -178,6 +178,7 @@ mod s1957_make_fancy_string;
 mod s1967_num_of_strings;
 mod s1970_latest_day_to_cross;
 mod s1975_max_matrix_sum;
+mod s1979_find_gcd;
 mod s1980_find_different_binary_string;
 mod s1984_minimum_difference;
 mod s2000_reverse_prefix;
