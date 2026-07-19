@@ -264,6 +264,7 @@ mod s2943_maximize_square_hole_area;
 mod s2946_are_similar;
 mod s2975_maximize_square_area;
 mod s2976_minimum_cost;
+mod s2980_has_trailing_zeros;
 mod s3000_area_of_max_diagonal;
 mod s3003_max_partitions_after_operations;
 mod s3010_minimum_cost;
