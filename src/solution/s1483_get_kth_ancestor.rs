@@ -31,7 +31,6 @@ impl TreeAncestor {
 
     fn get_kth_ancestor(&self, node: i32, k: i32) -> i32 {
         let mut node = node;
-        let mut k = k;
         for j in 0..16 {
             if ((k >> j) & 1) == 0 {
                 continue;
@@ -57,7 +56,7 @@ mod tests {
 
     #[test]
     fn test_1() {
-        let mut tree = TreeAncestor::new(2, vec![4, 2, 1, 3]);
+        let tree = TreeAncestor::new(2, vec![4, 2, 1, 3]);
         assert_eq!(
             1,
             tree.get_kth_ancestor(3, 1)
