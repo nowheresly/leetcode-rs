@@ -275,6 +275,7 @@ mod s3025_number_of_pairs;
 mod s3027_number_of_pairs;
 mod s3028_return_to_boundary_count;
 mod s3043_longest_common_prefix;
+mod s3065_min_operations;
 mod s3070_count_submatrices;
 mod s3074_minimum_boxes;
 mod s3075_maximum_happiness_sum;
