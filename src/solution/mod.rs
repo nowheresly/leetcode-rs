@@ -339,6 +339,7 @@ mod s3499_max_active_sections_after_trade;
 mod s3507_minimum_pair_removal;
 mod s3508_router;
 mod s3512_min_operations;
+mod s3513_unique_xor_triplets;
 mod s3516_find_closest;
 mod s3532_path_existence_queries;
 mod s3539_magical_sum;
