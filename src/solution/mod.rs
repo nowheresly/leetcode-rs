@@ -55,6 +55,7 @@ mod s0744_next_greatest_letter;
 mod s0755_pour_water;
 mod s0756_pyramid_transition;
 mod s0757_intersection_size_two;
+mod s0758_bold_words;
 mod s0759_employee_free_time;
 mod s0761_make_largest_special;
 mod s0766_is_toeplitz_matrix;
