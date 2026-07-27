@@ -128,6 +128,7 @@ mod s1413_min_start_value;
 mod s1415_get_happy_string;
 mod s1437_k_length_apart;
 mod s1461_has_all_codes;
+mod s1464_max_product;
 mod s1475_final_prices;
 mod s1483_get_kth_ancestor;
 mod s1488_avoid_flood;
