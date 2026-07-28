@@ -286,6 +286,7 @@ mod s3100_max_bottles_drunk;
 mod s3120_number_of_special_chars;
 mod s3121_number_of_special_chars;
 mod s3129_number_of_stable_arrays;
+mod s3131_added_integer;
 mod s3136_is_valid;
 mod s3147_maximum_energy;
 mod s3161_get_results;
