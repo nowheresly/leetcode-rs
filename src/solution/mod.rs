@@ -292,6 +292,7 @@ mod s3146_find_permutation_difference;
 mod s3147_maximum_energy;
 mod s3161_get_results;
 mod s3178_number_of_child;
+mod s3184_count_complete_day_pairs;
 mod s3186_maximum_total_damage;
 mod s3195_minimum_area;
 mod s3197_minimum_sum;
