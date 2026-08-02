@@ -388,3 +388,4 @@ mod s3754_sum_and_multiply;
 mod s3761_min_mirror_pair_distance;
 mod s3867_gcd_sum;
 mod s4000_largest_integer;
+mod s4006_count_valid_prefixes;
