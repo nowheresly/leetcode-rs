@@ -316,6 +316,7 @@ mod s3304_kth_character;
 mod s3314_min_bitwise_array;
 mod s3318_find_x_sum;
 mod s3330_possible_string_count;
+mod s3345_smallest_number;
 mod s3346_max_frequency;
 mod s3347_max_frequency;
 mod s3349_has_increasing_subarrays;
