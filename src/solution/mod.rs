@@ -137,6 +137,7 @@ mod s1483_get_kth_ancestor;
 mod s1488_avoid_flood;
 mod s1493_longest_subarray;
 mod s1504_num_sub_mat;
+mod s1510_winner_square_game;
 mod s1513_num_sub;
 mod s1518_num_water_bottles;
 mod s1523_count_odds;
