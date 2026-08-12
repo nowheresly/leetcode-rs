@@ -268,6 +268,7 @@ mod s2917_find_k_or;
 mod s2932_maximum_strong_pair_xor;
 mod s2943_maximize_square_hole_area;
 mod s2946_are_similar;
+mod s2958_max_subarray_length;
 mod s2975_maximize_square_area;
 mod s2976_minimum_cost;
 mod s2980_has_trailing_zeros;
