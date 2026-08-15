@@ -386,6 +386,7 @@ mod s3660_max_value;
 mod s3674_min_operations;
 mod s3689_max_total_value;
 mod s3699_zig_zag_arrays;
+mod s3702_longest_subsequence;
 mod s3712_sum_divisible_by_k;
 mod s3713_longest_balanced;
 mod s3714_longest_balanced;
