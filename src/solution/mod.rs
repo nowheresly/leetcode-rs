@@ -402,3 +402,4 @@ mod s3867_gcd_sum;
 mod s3983_can_make_subsequence;
 mod s4000_largest_integer;
 mod s4006_count_valid_prefixes;
+mod s4020_elevator_requests;
