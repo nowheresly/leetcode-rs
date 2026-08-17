@@ -3,7 +3,7 @@
 pub struct Solution {}
 
 impl Solution {
-    pub fn elevator_requests(n: i32, requests: Vec<i32>) -> i32 {
+    pub fn elevator_requests(_n: i32, requests: Vec<i32>) -> i32 {
         let mut res = requests[0];
 
         for i in 1..requests.len() {
