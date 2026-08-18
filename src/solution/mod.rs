@@ -345,6 +345,7 @@ mod s3453_separate_squares;
 mod s3454_separate_squares;
 mod s3461_has_same_digits;
 mod s3467_transform_array;
+mod s3471_largest_integer;
 mod s3477_num_of_unplaced_fruits;
 mod s3484_design_spreadsheet;
 mod s3487_max_sum;
