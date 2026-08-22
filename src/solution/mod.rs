@@ -389,6 +389,7 @@ mod s3658_gcd_of_odd_even_sums;
 mod s3660_max_value;
 mod s3674_min_operations;
 mod s3678_smallest_absent;
+mod s3688_even_number_bitwise_o_rs;
 mod s3689_max_total_value;
 mod s3699_zig_zag_arrays;
 mod s3702_longest_subsequence;
