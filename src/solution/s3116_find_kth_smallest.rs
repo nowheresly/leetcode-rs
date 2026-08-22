@@ -3,7 +3,7 @@ pub struct Solution {}
 
 impl Solution {
     pub fn find_kth_smallest(coins: Vec<i32>, k: i32) -> i64 {
-        let mut k = k as i64;
+        let k = k as i64;
         let mut begin:i64 = 0;
         let mut end : i64 = k * 25;
         let mut res = 1;
