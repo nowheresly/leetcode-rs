@@ -22,6 +22,7 @@ mod s0258_add_digits;
 mod s0314_vertical_order;
 mod s0326_is_power_of_three;
 mod s0333_largest_bst_subtree;
+mod s0351_number_of_patterns;
 mod s0358_rearrange_string;
 mod s0401_read_binary_watch;
 mod s0402_remove_kdigits;
