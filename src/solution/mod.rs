@@ -407,6 +407,7 @@ mod s3740_minimum_distance;
 mod s3751_total_waviness;
 mod s3754_sum_and_multiply;
 mod s3761_min_mirror_pair_distance;
+mod s3842_toggle_light_bulbs;
 mod s3867_gcd_sum;
 mod s3983_can_make_subsequence;
 mod s4000_largest_integer;
