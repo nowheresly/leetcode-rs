@@ -410,6 +410,7 @@ mod s3761_min_mirror_pair_distance;
 mod s3842_toggle_light_bulbs;
 mod s3866_first_unique_even;
 mod s3867_gcd_sum;
+mod s3870_count_commas;
 mod s3983_can_make_subsequence;
 mod s4000_largest_integer;
 mod s4006_count_valid_prefixes;
