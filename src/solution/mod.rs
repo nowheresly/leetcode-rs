@@ -413,6 +413,7 @@ mod s3842_toggle_light_bulbs;
 mod s3866_first_unique_even;
 mod s3867_gcd_sum;
 mod s3870_count_commas;
+mod s3876_uniform_array;
 mod s3940_limit_occurrences;
 mod s3950_consecutive_set_bits;
 mod s3983_can_make_subsequence;
