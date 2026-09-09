@@ -414,6 +414,7 @@ mod s3842_toggle_light_bulbs;
 mod s3866_first_unique_even;
 mod s3867_gcd_sum;
 mod s3870_count_commas;
+mod s3871_count_commas;
 mod s3876_uniform_array;
 mod s3903_first_stable_index;
 mod s3904_first_stable_index;
