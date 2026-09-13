@@ -68,6 +68,7 @@ mod s0788_rotated_digits;
 mod s0796_rotate_string;
 mod s0799_champagne_tower;
 mod s0812_largest_triangle_area;
+mod s0835_largest_overlap;
 mod s0836_is_rectangle_overlap;
 mod s0837_new21_game;
 mod s0840_num_magic_squares_inside;
