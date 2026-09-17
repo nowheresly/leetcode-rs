@@ -139,6 +139,7 @@ mod s1437_k_length_apart;
 mod s1461_has_all_codes;
 mod s1464_max_product;
 mod s1475_final_prices;
+mod s1477_min_sum_of_lengths;
 mod s1483_get_kth_ancestor;
 mod s1488_avoid_flood;
 mod s1493_longest_subarray;
