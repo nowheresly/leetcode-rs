@@ -147,6 +147,7 @@ mod s1504_num_sub_mat;
 mod s1510_winner_square_game;
 mod s1513_num_sub;
 mod s1518_num_water_bottles;
+mod s1520_max_num_of_substrings;
 mod s1523_count_odds;
 mod s1526_min_number_operations;
 mod s1545_find_kth_bit;
