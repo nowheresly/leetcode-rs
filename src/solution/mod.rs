@@ -130,6 +130,7 @@ mod s1386_max_number_of_families;
 mod s1390_sum_four_divisors;
 mod s1391_has_valid_path;
 mod s1394_find_lucky;
+mod s1401_check_overlap;
 mod s1404_num_steps;
 mod s1406_stone_game_iii;
 mod s1411_num_of_ways;
