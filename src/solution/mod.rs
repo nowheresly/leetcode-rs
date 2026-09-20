@@ -371,6 +371,7 @@ mod s3488_solve_queries;
 mod s3491_phone_prefix;
 mod s3494_min_time;
 mod s3495_min_operations;
+mod s3498_reverse_degree;
 mod s3499_max_active_sections_after_trade;
 mod s3507_minimum_pair_removal;
 mod s3508_router;
