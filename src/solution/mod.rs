@@ -380,6 +380,7 @@ mod s3513_unique_xor_triplets;
 mod s3514_unique_xor_triplets;
 mod s3516_find_closest;
 mod s3524_result_array;
+mod s3525_result_array;
 mod s3532_path_existence_queries;
 mod s3539_magical_sum;
 mod s3541_max_freq_sum;
