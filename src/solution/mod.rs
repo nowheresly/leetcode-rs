@@ -55,6 +55,7 @@ mod s0712_minimum_delete_sum;
 mod s0717_is_one_bit_character;
 mod s0723_candy_crush;
 mod s0744_next_greatest_letter;
+mod s0751_ip_to_cidr;
 mod s0755_pour_water;
 mod s0756_pyramid_transition;
 mod s0757_intersection_size_two;
