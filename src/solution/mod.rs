@@ -101,6 +101,7 @@ mod s1150_is_majority_element;
 mod s1161_max_level_sum;
 mod s1166_file_system;
 mod s1182_shortest_distance_color;
+mod s1190_reverse_parentheses;
 mod s1196_max_number_of_apples;
 mod s1198_smallest_common_element;
 mod s1200_minimum_abs_difference;
