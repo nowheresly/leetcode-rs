@@ -7,7 +7,7 @@ impl Solution {
             total_sum += num;
         }
 
-        let mut target = total_sum - x;
+        let target = total_sum - x;
         if target < 0 {
             return -1;
         }
@@ -22,12 +22,12 @@ impl Solution {
         for right in 0..nums.len() {
             current_sum += nums[right];
 
-            while (left <= right && current_sum > target) {
+            while left <= right && current_sum > target {
                 current_sum -= nums[left];
                 left += 1;
             }
 
-            if (current_sum == target) {
+            if current_sum == target {
                 max_len = max_len.max(right as i32 - left as i32 + 1);
             }
         }
