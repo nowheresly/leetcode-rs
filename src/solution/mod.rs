@@ -95,6 +95,7 @@ mod s1039_min_score_triangulation;
 mod s1047_remove_duplicates;
 mod s1064_fixed_point;
 mod s1065_index_pairs;
+mod s1111_max_depth_after_split;
 mod s1133_largest_unique_number;
 mod s1140_stone_game_ii;
 mod s1150_is_majority_element;
