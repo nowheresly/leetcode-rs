@@ -3,6 +3,7 @@ mod s0003_length_of_longest_substring;
 mod s0009_is_palindrome;
 mod s0011_max_area;
 mod s0027_remove_element;
+mod s0032_longest_valid_parentheses;
 mod s0033_search;
 mod s0035_search_insert;
 mod s0037_solve_sudoku;
