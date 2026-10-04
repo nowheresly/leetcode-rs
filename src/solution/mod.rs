@@ -447,3 +447,4 @@ mod s4006_count_valid_prefixes;
 mod s4020_elevator_requests;
 mod s4043_count_rotations;
 mod s4048_count_special_integers;
+mod s4070_min_rotations;
