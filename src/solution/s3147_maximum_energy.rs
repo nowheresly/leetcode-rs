@@ -3,7 +3,7 @@ pub struct Solution {}
 impl Solution {
     pub fn maximum_energy(energy: Vec<i32>, k: i32) -> i32 {
         let n = energy.len();
-        let mut max = std::i32::MIN;
+        let mut max = i32::MIN;
         let mut dp = vec![0; n];
         let k = k as usize;
 
