@@ -21,6 +21,7 @@ mod s0223_compute_area;
 mod s0231_power_of_two;
 mod s0256_min_cost;
 mod s0258_add_digits;
+mod s0301_remove_invalid_parentheses;
 mod s0314_vertical_order;
 mod s0326_is_power_of_three;
 mod s0333_largest_bst_subtree;
