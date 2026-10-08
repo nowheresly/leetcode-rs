@@ -94,6 +94,7 @@ mod s1013_can_three_parts_equal_sum;
 mod s1014_max_score_sightseeing_pair;
 mod s1015_smallest_repunit_div_by_k;
 mod s1018_prefixes_div_by_5;
+mod s1021_remove_outer_parentheses;
 mod s1022_sum_root_to_leaf;
 mod s1039_min_score_triangulation;
 mod s1047_remove_duplicates;
