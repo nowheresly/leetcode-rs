@@ -159,6 +159,7 @@ mod s1518_num_water_bottles;
 mod s1520_max_num_of_substrings;
 mod s1523_count_odds;
 mod s1526_min_number_operations;
+mod s1541_min_insertions;
 mod s1545_find_kth_bit;
 mod s1560_most_visited;
 mod s1563_stone_game_v;
