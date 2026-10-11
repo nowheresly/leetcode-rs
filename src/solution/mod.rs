@@ -223,6 +223,7 @@ mod s2075_decode_ciphertext;
 mod s2078_max_distance;
 mod s2091_minimum_deletions;
 mod s2092_find_all_people;
+mod s2093_minimum_cost;
 mod s2099_find_subseq_k_largest_sum;
 mod s2104_sub_array_ranges;
 mod s2107_share_candies;
