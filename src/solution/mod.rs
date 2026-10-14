@@ -432,6 +432,7 @@ mod s3712_sum_divisible_by_k;
 mod s3713_longest_balanced;
 mod s3714_longest_balanced;
 mod s3719_longest_balanced;
+mod s3723_max_sum_of_squares;
 mod s3727_max_alternating_sum;
 mod s3731_find_missing_elements;
 mod s3737_count_majority_subarrays;
