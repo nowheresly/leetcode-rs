@@ -298,6 +298,7 @@ mod s2872_max_k_divisible_components;
 mod s2897_max_sum;
 mod s2904_shortest_beautiful_substring;
 mod s2906_construct_product_matrix;
+mod s2913_sum_counts;
 mod s2917_find_k_or;
 mod s2932_maximum_strong_pair_xor;
 mod s2943_maximize_square_hole_area;
