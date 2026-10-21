@@ -444,6 +444,7 @@ mod s3751_total_waviness;
 mod s3754_sum_and_multiply;
 mod s3761_min_mirror_pair_distance;
 mod s3842_toggle_light_bulbs;
+mod s3863_min_operations;
 mod s3866_first_unique_even;
 mod s3867_gcd_sum;
 mod s3870_count_commas;
