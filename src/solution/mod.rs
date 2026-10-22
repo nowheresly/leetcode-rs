@@ -454,6 +454,7 @@ mod s3886_sortable_integers;
 mod s3903_first_stable_index;
 mod s3904_first_stable_index;
 mod s3940_limit_occurrences;
+mod s3942_min_operations;
 mod s3950_consecutive_set_bits;
 mod s3983_can_make_subsequence;
 mod s4000_largest_integer;
