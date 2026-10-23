@@ -418,6 +418,7 @@ mod s3629_min_jumps;
 mod s3634_min_removal;
 mod s3637_is_trionic;
 mod s3643_reverse_submatrix;
+mod s3644_sort_permutation;
 mod s3650_min_cost;
 mod s3651_min_cost;
 mod s3652_max_profit;
