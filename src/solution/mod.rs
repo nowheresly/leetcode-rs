@@ -199,6 +199,7 @@ mod s1877_min_pair_sum;
 mod s1878_get_biggest_three;
 mod s1886_find_rotation;
 mod s1888_min_flips;
+mod s1894_chalk_replacer;
 mod s1895_largest_magic_square;
 mod s1914_rotate_grid;
 mod s1925_count_triples;
