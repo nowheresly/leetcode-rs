@@ -429,6 +429,7 @@ mod s3652_max_profit;
 mod s3653_xor_after_queries;
 mod s3658_gcd_of_odd_even_sums;
 mod s3660_max_value;
+mod s3665_unique_paths;
 mod s3674_min_operations;
 mod s3678_smallest_absent;
 mod s3688_even_number_bitwise_o_rs;
