@@ -37,6 +37,7 @@ mod s0422_valid_word_squares;
 mod s0425_word_squares;
 mod s0441_arrange_coins;
 mod s0453_min_moves;
+mod s0462_min_moves2;
 mod s0463_island_perimeter;
 mod s0474_find_max_form;
 mod s0486_predict_the_winner;
