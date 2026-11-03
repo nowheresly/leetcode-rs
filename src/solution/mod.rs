@@ -445,6 +445,7 @@ mod s3719_longest_balanced;
 mod s3723_max_sum_of_squares;
 mod s3727_max_alternating_sum;
 mod s3731_find_missing_elements;
+mod s3736_min_moves;
 mod s3737_count_majority_subarrays;
 mod s3739_count_majority_subarrays;
 mod s3740_minimum_distance;
