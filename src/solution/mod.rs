@@ -138,6 +138,7 @@ mod s1351_count_negatives;
 mod s1358_max_events;
 mod s1358_number_of_substrings;
 mod s1360_days_between_dates;
+mod s1385_find_the_distance_value;
 mod s1386_max_number_of_families;
 mod s1390_sum_four_divisors;
 mod s1391_has_valid_path;
