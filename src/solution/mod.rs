@@ -201,6 +201,7 @@ mod s1872_stone_game_viii;
 mod s1876_count_good_substrings;
 mod s1877_min_pair_sum;
 mod s1878_get_biggest_three;
+mod s1882_assign_tasks;
 mod s1886_find_rotation;
 mod s1888_min_flips;
 mod s1894_chalk_replacer;
