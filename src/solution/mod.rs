@@ -119,6 +119,7 @@ mod s1254_closed_island;
 mod s1259_number_of_ways;
 mod s1262_max_sum_div_three;
 mod s1266_min_time_to_visit_all_points;
+mod s1267_count_servers;
 mod s1277_count_square;
 mod s1290_get_decimal_value;
 mod s1291_sequential_digits;
