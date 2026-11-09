@@ -173,6 +173,7 @@ mod s1578_min_cost;
 mod s1582_num_special;
 mod s1590_min_subarray;
 mod s1594_max_product_path;
+mod s1606_busiest_servers;
 mod s1611_minimum_one_bit_operations;
 mod s1614_max_depth;
 mod s1619_trim_mean;
