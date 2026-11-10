@@ -442,6 +442,7 @@ mod s3674_min_operations;
 mod s3678_smallest_absent;
 mod s3688_even_number_bitwise_o_rs;
 mod s3689_max_total_value;
+mod s3693_climb_stairs;
 mod s3699_zig_zag_arrays;
 mod s3702_longest_subsequence;
 mod s3712_sum_divisible_by_k;
