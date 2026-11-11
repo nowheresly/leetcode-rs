@@ -459,6 +459,7 @@ mod s3740_minimum_distance;
 mod s3751_total_waviness;
 mod s3754_sum_and_multiply;
 mod s3761_min_mirror_pair_distance;
+mod s3789_minimum_cost;
 mod s3814_max_capacity;
 mod s3842_toggle_light_bulbs;
 mod s3863_min_operations;
