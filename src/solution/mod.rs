@@ -285,6 +285,7 @@ mod s2536_range_add_queries;
 mod s2540_get_common;
 mod s2553_separate_digits;
 mod s2566_min_max_diff;
+mod s2567_minimize_sum;
 mod s2578_split_num;
 mod s2595_even_odd_bit;
 mod s2598_find_smallest_integer;
