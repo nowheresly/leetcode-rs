@@ -332,6 +332,7 @@ mod s3021_flower_game;
 mod s3025_number_of_pairs;
 mod s3027_number_of_pairs;
 mod s3028_return_to_boundary_count;
+mod s3041_max_selected_elements;
 mod s3043_longest_common_prefix;
 mod s3065_min_operations;
 mod s3070_count_submatrices;
