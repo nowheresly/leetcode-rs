@@ -493,3 +493,4 @@ mod s4070_min_rotations;
 mod s4074_max_product_pair;
 mod s4078_three_fibonacci_sum;
 mod s4083_min_deletions;
+mod s4111_count_consistent;
