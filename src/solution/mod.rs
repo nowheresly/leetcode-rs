@@ -189,6 +189,7 @@ mod s1689_min_partitions;
 mod s1716_total_money;
 mod s1722_minimum_hamming_distance;
 mod s1758_min_operations;
+mod s1781_beauty_sum;
 mod s1784_check_ones_segment;
 mod s1792_max_average_ratio;
 mod s1833_max_ice_cream;
